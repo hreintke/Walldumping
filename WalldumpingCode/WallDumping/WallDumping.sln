@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallDumping", "WallDumping\WallDumping.csproj", "{CCCE1B14-BD5C-4EC4-BB0E-77BE377637ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCE1B14-BD5C-4EC4-BB0E-77BE377637ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCE1B14-BD5C-4EC4-BB0E-77BE377637ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCE1B14-BD5C-4EC4-BB0E-77BE377637ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCE1B14-BD5C-4EC4-BB0E-77BE377637ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F8283C4-17B5-4A69-BF09-AE9E807415D3}
+	EndGlobalSection
+EndGlobal
